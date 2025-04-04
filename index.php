@@ -4,6 +4,8 @@
 //     header("Location: https://rms.mangaldeepgrp.com/login.php");
 //     exit();
 // }
+
+// client ki tarf se locations bachi hai pols ki
 ?>
 <?php
 
